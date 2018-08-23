@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 19,
+    "uniqCompNum": 21,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -258,8 +258,8 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -281,6 +281,26 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-a"
+        },
+        {
+          "_inherit": "soundcloud1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "sound": "https://soundcloud.com/arkaydethesage",
+            "autoplay": false,
+            "fullWidth": true,
+            "bgColor": "#2969b0"
+          },
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_afterNavbarItem": false,
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F494013654&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F494013654",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-k"
         },
         {
           "_styles": {
