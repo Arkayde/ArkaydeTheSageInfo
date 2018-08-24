@@ -144,7 +144,7 @@
             }
           },
           "title": "Beats for Sale!",
-          "text": "<p>Greig's Basement Beat Mixtape coming soon! Listen to beats from the mixtape now on <a href=\"https://soundcloud.com/user-51610170\" target=\"_blank\">SoundCloud</a>, or purchase exclusive and non-exclusive beats at <a href=\"https://airbit.com/ArkaydeTheSage\" target=\"_blank\">Airbit.com</a> &amp; <a href=\"https://www.beatstars.com/arkaydethesage\" target=\"_blank\">Beatstars.com</a>. Prices range from $10 - $150!</p><p>Need a landing page like this? Scroll down to learn more about my web design and marketing services!</p>",
+          "text": "<p>Greig's Basement Beat Mixtape coming soon! Listen to beats from the mixtape now on <a href=\"https://soundcloud.com/user-51610170\" target=\"_blank\">SoundCloud</a>, or purchase exclusive and non-exclusive beats at <a href=\"https://airbit.com/ArkaydeTheSage\" target=\"_blank\">Airbit.com</a> &amp; <a href=\"https://arkaydethesage.beatstars.com/\" target=\"_blank\">Beatstars.com</a>. Prices range from $10 - $150!</p><p>Need a landing page like this? Scroll down to learn more about my web design and marketing services!</p>",
           "_tags": [
             "Theme"
           ],
@@ -237,7 +237,7 @@
           },
           "title": "Beatstars.com",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.beatstars.com/arkaydethesage\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy A Beat</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://arkaydethesage.beatstars.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy A Beat</a>",
           "_tags": [
             "Theme"
           ],
